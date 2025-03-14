@@ -4,7 +4,7 @@ Coursera - IBM
 
 Link to [Course](https://www.coursera.org/learn/introduction-to-hardware-and-operating-systems/)
 
-## 1. Introduction to Computing Fundamentals
+## Introduction to Computing Fundamentals
 ### What I will learn
 - Define what a computer is
 - Classify computers by size and usage
