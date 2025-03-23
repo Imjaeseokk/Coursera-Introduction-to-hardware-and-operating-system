@@ -4,12 +4,7 @@ Coursera - IBM
 
 Link to [Course](https://www.coursera.org/learn/introduction-to-hardware-and-operating-systems/)
 
-Lectures
 
-[1. Common Computing Devices and Their Platforms](part1)
-[2. Understanding How Computers Talk](part2)
-
-<a id="part1"></a>
 
 ## Common Computing Devices and Their Components
 
@@ -105,8 +100,6 @@ Internet of Things (IoT) devices are everyday objects equipped with sensors, con
 - Stationary devices offer the greatest potential for upgrades.
 - IoT devices offer the least or no upgrade options due to integrated components.
 
-
-<a id="part2"></a>
 
 ## Understanding How Computers Talk
 
